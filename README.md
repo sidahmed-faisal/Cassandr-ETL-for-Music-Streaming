@@ -1,6 +1,6 @@
 # Cassandra-ETL-for-Music-Streaming
 
-Music Analysis Database: Dive into Listening Trends with Cassandra
+Music Analysis ETL: Dive into Listening Trends with Cassandra
 
 -This project builds a powerful Apache Cassandra database to analyze user listening trends.
 
